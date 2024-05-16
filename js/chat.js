@@ -588,7 +588,7 @@ var Chat = {
 				element.innerHTML = element.innerHTML + '<label class=\"connect-message\">' + Chat.connect_message + "</label>";
 				element.innerHTML = element.innerHTML + '<br><br><input id=\"email\" type=\"text\" class=\"email-input\" placeholder=\"Email\" ></input><br>';
 				element.innerHTML = element.innerHTML + '<label id=\"warning-email\" class=\"warning-email\"></label>';
-				element.innerHTML = element.innerHTML + '<input id=\"name\" type=\"text\" class=\"name-input\" placeholder=\"Name\" hidden=\"hidden\" value=\"DekaTampan\"></input><br>';
+				element.innerHTML = element.innerHTML + '<input id=\"name\" type=\"text\" class=\"name-input\" placeholder=\"Name\" hidden=\"hidden\" value=\"DekaAtBTN\"></input><br>';
 				element.innerHTML = element.innerHTML + '<label id=\"warning-name\" class=\"warning-name\"></label>';
 				element.innerHTML = element.innerHTML + '<br><br><input id=\"telephone\" type=\"text\" class=\"phone-input\" placeholder=\"Phone\" hidden=\"hidden\" value=\"084383882228\"></input><br>';
 				element.innerHTML = element.innerHTML + '<label id=\"warning-phone\" class=\"warning-phone\"></label>';
